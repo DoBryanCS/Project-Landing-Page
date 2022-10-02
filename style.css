@@ -1,3 +1,5 @@
+/*Section 1----------------------------------------*/
+
 .section1 {
     background-color: #1f2937;
 }
@@ -5,6 +7,8 @@
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    margin-top: 10px;
+    margin-left: 150px;
 }
 
 li {
@@ -19,7 +23,7 @@ a {
 
 .text {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: 800;
     color: #F9FAF8;
 }
 
@@ -34,9 +38,44 @@ button {
     background-color: rgb(92, 92, 247);
     font-weight: bold;
     padding: 7px;
-    width: 13%;
+    width: 30%;
 }
 
 img {
     color: #E5E7EB;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+ul {
+    display: flex;
+    gap: 12px;
+    margin-right: 150px;
+}
+
+.info1 {
+    display: flex;
+    margin-left: 150px;
+}
+
+.info1Column {
+    margin-right: 30px;
+}
+
+.text {
+    width: 400px;
+}
+
+.subtext {
+    width: 420px;
+    margin-bottom: 10px;
+}
+
+/*Section 2-------------------------------------------*/
+
+
+
