@@ -35,7 +35,7 @@ a {
     margin-bottom: 10px;
 }
 
-button {
+button.signupBtn1 {
     border-radius: 10px;
     color: #F9FAF8;
     background-color: #3882f6;
@@ -140,3 +140,47 @@ ul {
     justify-content: flex-end;
     margin-right: 50px;
 }
+
+/*Section 4-------------------------------------------*/
+
+.section4 {
+    background-color: white;
+}
+
+.box {
+    background-color: #3882f6;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.info2 {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: space-between;
+}
+
+.text2 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.subtext2 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button.signupBtn2 {
+    border-radius: 10px;
+    color: #F9FAF8;
+    background-color: #3882f6;
+    font-weight: bold;
+    padding: 7px;
+    width: 17%;
+}
+
